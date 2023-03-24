@@ -1,9 +1,14 @@
 import React from 'react'
+import "./Hero.css"
 
 export default function Hero() {
   return (
-    <div>
-      
-    </div>
+    <section id="hero">
+			<div className="container">
+				<div className="hero">
+					
+				</div>
+			</div>
+		</section>
   )
 }

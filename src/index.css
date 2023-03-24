@@ -8,6 +8,24 @@ body {
 }
 
 
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+body {
+  background: #525252;
+  font-family: 'Shalimar', cursive;
+}
 
 
 

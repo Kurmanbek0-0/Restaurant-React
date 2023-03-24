@@ -6,6 +6,7 @@ import Menu from "./components/menu/Menu";
 import Modern from "./components/modern/Modern"
 import Visit from "./components/visit/Visit"
 import Footer from "./components/footer/Footer"
+import "./index.css"
 
 
 const App = () => {	
@@ -17,6 +18,8 @@ const App = () => {
 			<Header />
 			<Hero />	
 			<About />		
+			<Menu />		
+			<Modern/>	
 			<Menu />
 			<Modern/>
 			<Visit/>
