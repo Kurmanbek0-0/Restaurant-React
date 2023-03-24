@@ -12,13 +12,19 @@ import "./index.css"
 const App = () => {	
 	return (	
 		<>	
-			<Header />	
+			<Header />
+			<Hero />
+			<About />
+			<Header />
 			<Hero />	
 			<About />		
 			<Menu />		
 			<Modern/>	
+			<Menu />
+			<Modern/>
 			<Visit/>
-			<Footer/>	
+			<Footer/>
+			<Footer/>
 		</>
 	);
 };
